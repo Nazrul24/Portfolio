@@ -1,4 +1,3 @@
-# nazrul.github.io
 # Software Engineer, QA
 
 #### Technical Skills: Software Testing, Python, JavaScript, Jenkins 
